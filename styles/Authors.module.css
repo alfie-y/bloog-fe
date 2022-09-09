@@ -1,0 +1,22 @@
+
+.grid {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 25px;
+}
+
+.author {
+    padding: 25px;
+    cursor: pointer;
+}
+
+.icon {
+    filter: grayscale(0%);
+    transition: 0.2s;
+}
+
+.author:hover .icon {
+    filter: grayscale(100%);
+    transition: 0.2s;
+}

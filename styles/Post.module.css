@@ -1,0 +1,41 @@
+.main { 
+    margin: auto;
+    width: 750px;
+    max-width: calc(100vw-50px);
+}
+
+.mainImage {
+    width: 100%;
+    max-width: calc(100vw-50px);
+
+}
+
+.embedContainer {
+    margin: 25px;
+}
+
+.body p {
+    font-size: 18px;
+    text-align: start;
+    line-height: 1.3em;
+    letter-spacing: ;
+}
+
+.body img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+.body a:link {
+    color: hotpink;
+}
+  
+.body a:visited {
+    color: blueviolet;
+}
+  
+.body a:hover {
+    color: blue;
+}

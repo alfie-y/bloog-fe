@@ -1,0 +1,12 @@
+.main {
+    background-color: black;
+    color: white;
+    padding: 25px;
+    margin: 0px;
+}
+
+.main ul {
+    list-style: none;
+    line-height: 1.5em;
+    align-items: flex-end;
+}
