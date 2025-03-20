@@ -12,3 +12,4 @@ I built this site to practice learning React, with server-side rendering by Next
 - Handles embedded content
 - Random splash text!
 
+(The current deplyoment only fails as the version of Node.js used is now outdated, and updating this description has automatically triggered a redeployment with Vercel)
